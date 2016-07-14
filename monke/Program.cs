@@ -69,7 +69,6 @@ namespace Monke
 					}
 				}
 			}
-			// Get next row
 		}
 
 		public void print()
